@@ -1,0 +1,8 @@
+## crear usuarios
+POST http://localhost:8080/create
+
+{
+    "username": "usuario",
+    "email":"email",
+    "password":"password"
+}
